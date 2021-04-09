@@ -1,5 +1,3 @@
-# dataswift
-
 This repo is part of a 6 video series about login/signup and CRUD operations using Dataswift's hat-js
 
 ## Description
